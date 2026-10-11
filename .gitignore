@@ -1,18 +1,18 @@
 # Python                                                                               
-    __pycache__/                                                                           
-    *.py[cod]                                                                              
-    *$py.class                                                                             
-    .venv/                                                                                 
-    venv/                                                                                  
-    *.env                                                                                  
-                                                                                           
-    # Logs & Database                                                                      
-    *.log                                                                                  
-    *.sqlite3                                                                              
-    *.tmp                                                                                  
-    *.lock                                                                                 
-                                                                                           
-    # OS artifacts
-    .DS_Store
-    Thumbs.db
+__pycache__/                                                                           
+*.py[cod]                                                                              
+*$py.class                                                                             
+.venv/                                                                                 
+venv/                                                                                  
+*.env                                                                                  
+
+# Logs & Database                                                                      
+*.log                                                                                  
+*.sqlite3                                                                              
+*.tmp                                                                                  
+*.lock                                                                                 
+
+# OS artifacts
+.DS_Store
+Thumbs.db
 
