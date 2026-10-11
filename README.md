@@ -88,6 +88,7 @@ flowchart LR
 
 ## 6. Author
 
-**Sam Vivas**  
-*Aspiring Industrial AI & Energy Systems Architect*  
+**Samuel Vivas**  
+*Aspiring Industrial AI & Energy Systems Engineer*  
 GitHub: [@Vivas2238](https://github.com/Vivas2238)
+
