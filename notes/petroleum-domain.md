@@ -92,19 +92,19 @@
 
 - **Definition**: The fraction of a rock's total bulk volume occupied by pore spaces that can store fluids such as oil, gas, and water.
     
-- **Formula**:
+- **Formula (Fractional)**:
     
     $$\phi = \frac{V_{\text{pore}}}{V_{\text{bulk}}}$$
     
-    Expressed as a percentage:
+- **Formula (Percentage %)**:
     
-    $$\phi(\%) = \frac{V_{\text{pore}}}{V_{\text{bulk}}} \times 100$$
+    $$\phi_{\text{percent}} = \frac{V_{\text{pore}}}{V_{\text{bulk}}} \times 100$$
     
     Where:
     
     - $V_{\text{pore}}$ = Total pore volume.
     - $V_{\text{bulk}}$ = Total bulk volume of the rock, including solids and pores.
-    - $\phi$ = Porosity (dimensionless fraction).
+    - $\phi$ = Porosity (dimensionless fraction, $0.0 \le \phi \le 1.0$).
         
 - **Typical Field Ranges**:
     
@@ -182,15 +182,15 @@
         
 - **Volumetric Closure Constraint**: The entire available pore space is occupied by the fluid phases, so saturations must sum to unity:
     
-    $$S_o + S_g + S_w = 1$$
+    $$S_o + S_g + S_w = 1.0$$
     
-    Expressed as percentages:
+    In percentage terms (summing to 100%):
     
-    $$S_o(\%) + S_g(\%) + S_w(\%) = 100\%$$
+    $$S_{o,\text{pct}} + S_{g,\text{pct}} + S_{w,\text{pct}} = 100$$
     
     **Field Example**: If an Orinoco belt or conventional reservoir core reveals $S_o = 0.60$ (60% oil) and $S_w = 0.25$ (25% formation water), the remaining free gas saturation is:
     
-    $$S_g = 1 - (S_o + S_w) = 1 - (0.60 + 0.25) = 0.15 \quad (15\%)$$
+    $$S_g = 1.0 - (S_o + S_w) = 1.0 - (0.60 + 0.25) = 0.15 \quad (15\text{ percent})$$
     
     *Significance*: Fluid saturations directly feed Volumetric Original Oil in Place (OOIP) calculations ($N = \frac{7758 \cdot A \cdot h \cdot \phi \cdot (1 - S_w)}{B_{oi}}$) and relative permeability curves.
 
