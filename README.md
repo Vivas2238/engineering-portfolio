@@ -1,4 +1,4 @@
-# OPERATION2031 — Engineering Portfolio
+# OPERATION33 — Engineering Portfolio
 
 [![CachyOS](https://img.shields.io/badge/OS-CachyOS%20Linux%20x86__64-00d96f?style=flat-square&logo=linux&logoColor=white)](https://cachyos.org)
 [![Shell](https://img.shields.io/badge/Shell-Fish%204.9-00d96f?style=flat-square&logo=gnubash&logoColor=white)](https://fishshell.com)
@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.14-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
-Central engineering repository and portfolio hub for **OPERATION FREEDOM 2031 (OP2031)** — an intensive, long-range engineering initiative transitioning from petroleum data foundations to international Industrial AI & Energy Systems Architecture.
+Central engineering repository and portfolio hub for **OPERATION FREEDOM 33 (OP33)** — an intensive, long-range engineering initiative transitioning from petroleum data foundations to international Industrial AI & Energy Systems Architecture.
 
 ---
 
